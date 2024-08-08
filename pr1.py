@@ -19,3 +19,4 @@ for i in range(0, len(a)):
  print("\n The hypothesis for the training instance {} is : \n".format(i + 1), hypothesis)
 print("\n The Maximally specific hypothesis for the training instance is ")
 print(hypothesis)
+%userprofile%\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadline
